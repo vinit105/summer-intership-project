@@ -1,0 +1,62 @@
+/* src/pages/About.css */
+
+/* Container for the About page */
+.about {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f9f9f9; /* Matches form background color */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  header h1 {
+    color: #0056b3; /* Matches the color scheme for headings */
+    font-size: 2.5rem;
+  }
+  
+  header p {
+    font-size: 1.1rem;
+    color: #333; /* Neutral color for text */
+    margin: 0 0 20px 0;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  section h2 {
+    color: #0056b3; /* Matches the color scheme for section titles */
+    font-size: 1rem;
+    border-bottom: 2px solid #007bff; /* Matches the border color */
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+  }
+  
+  section p {
+    font-size: 1rem;
+    color: #555; /* Slightly lighter color for paragraph text */
+    line-height: 1.6;
+  }
+  
+  ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: #333; /* Neutral color for list items */
+  }
+  
+  ul li strong {
+    color: #007bff; /* Highlighted color for strong text */
+  }
+  
