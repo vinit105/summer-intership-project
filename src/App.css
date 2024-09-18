@@ -112,3 +112,12 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
+.buttonStyle{
+  text-align: center;
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}

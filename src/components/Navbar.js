@@ -9,6 +9,7 @@ function Navbar() {
         <li><Link to="/doctor-details">Doctor Details</Link></li>
         <li><Link to="/about">About</Link></li>
         <li><Link to="/contact">Contact</Link></li>
+        <li><Link to="/login">Login</Link></li>
       </ul>
     </nav>
   );
